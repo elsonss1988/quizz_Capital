@@ -1,6 +1,6 @@
 import { Quizz } from "../model/quizz";
 
-export const quizzes = [
+export const quizzesClasses = [
   new Quizz(
     "Qual a capital do Para",
     "Curitiba",

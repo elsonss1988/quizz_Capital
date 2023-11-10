@@ -1,14 +1,14 @@
 import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
-  container: {
-    alignSelf: "stretch",
-    justifyContent: "center",
-  },
-  footerText: {
-    fontSize: 18,
-    textAlign: "center",
-    fontWeight: "700",
+  buttomMenu: {
+    backgroundColor: "#00CCFF",
     padding: 10,
+    margin: 10,
+  },
+  textMenu: {
+    fontSize: 18,
+    fontWeight: "400",
+    textAlign: "center",
   },
 });
